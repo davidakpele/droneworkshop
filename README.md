@@ -20,11 +20,11 @@ This is a fullstack web application for drone enthusiasts, engineers, and hobbyi
 
 
 ## Run Locally
-
+https://github.com/davidakpele/droneworkshop
 Clone the project
 
 ```bash
-  git clone https://github.com/bergamontt/droneworkshop.git
+  git clone [https://github.com/davidakpele/droneworkshop.git](https://github.com/davidakpele/droneworkshop)
 ```
 
 Go to the project directory
